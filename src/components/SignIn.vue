@@ -126,11 +126,11 @@
           <rect width="200" height="100" fill="url(#svg-pattern-squares-1)"></rect> 
         </svg>
         <div class="flex flex-col items-center p-8">
-            <img class="w-80" src="../assets/images/undraw_public_discussion_btnw (1).svg" alt=""/>
+            <img class="w-80" src="../assets/images/homeImage1.svg" alt=""/>
             <p class="px-2 py-2 text-white">Remote Teams?</p>
         </div>
         <div class="flex flex-col items-center p-8">
-            <img class="w-80" src="../assets/images/undraw_happy_announcement_ac67 (1).svg" alt=""/>
+            <img class="w-80" src="../assets/images/homeImage2.svg" alt=""/>
             <p class="px-2 py-2 text-white">Collaborate Seamlessly</p>
         </div>
         
