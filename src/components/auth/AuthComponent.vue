@@ -1,6 +1,9 @@
 <template>
     <div class="min-h-screen bg-white flex">
     <div class="flex-1 flex flex-col justify-center py-4 px-4 sm:px-6 lg:flex-none lg:px-20 xl:px-24 xl:w-6/12">
+        <div class="flex justify-center pb-4">
+          <img class="h-16 xl:h-20 w-auto" src="../../assets/logo-final.png" alt="Metacircle" />
+        </div>
         <router-view></router-view>
     </div>
     <div class="hidden lg:block relative w-0 flex-1 flex flex-col h-screen py-10 justify-between bg-indigo-600 box-border">
