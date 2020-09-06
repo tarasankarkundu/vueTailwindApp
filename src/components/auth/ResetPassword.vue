@@ -1,7 +1,7 @@
 <template>
     <div class="mx-auto w-full max-w-sm lg:w-96">
         <div>
-            <img class="h-28 w-auto" src="../../assets/logo-final.png" alt="Metacircle">
+            <img class="h-28 w-auto" src="../../assets/logo-final.png" alt="Metacircle" />
             <h2 class="text-3xl leading-9 font-bold text-gray-900">
             Reset Password
             </h2>

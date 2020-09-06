@@ -1,7 +1,7 @@
 <template>
     <div class="mx-auto w-full max-w-sm lg:w-96">
         <div>
-            <img class="h-28 w-auto" src="../../assets/logo-final.png" alt="Metacircle">
+            <img class="h-28 w-auto" src="../../assets/logo-final.png" alt="Metacircle"/>
             <h2 class="text-3xl leading-9 font-bold text-gray-900">
             Sign up to create your account
             </h2>
@@ -12,22 +12,22 @@
             <div class="mt-6">
             <form action="#" method="POST" class="space-y-6">
                 <div class="flex justify-between">
-                <div>
-                <label for="firstName" class="block text-sm font-medium leading-5 text-gray-700">
-                    First name
-                </label>
-                <div class="mt-1 rounded-md shadow-sm">
-                    <input id="firstName" type="text" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5">
-                </div>
-                </div>
-                 <div>
-                <label for="lastName" class="block text-sm font-medium leading-5 text-gray-700">
-                    Last name
-                </label>
-                <div class="mt-1 rounded-md shadow-sm">
-                    <input id="lastName" type="text" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5">
-                </div>
-                </div>
+                    <div>
+                        <label for="firstName" class="block text-sm font-medium leading-5 text-gray-700">
+                            First name
+                        </label>
+                        <div class="mt-1 rounded-md shadow-sm">
+                            <input id="firstName" type="text" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5">
+                        </div>
+                    </div>
+                    <div>
+                        <label for="lastName" class="block text-sm font-medium leading-5 text-gray-700">
+                            Last name
+                        </label>
+                        <div class="mt-1 rounded-md shadow-sm">
+                            <input id="lastName" type="text" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5">
+                        </div>
+                    </div>
                 </div>
                 <div>
                 <label for="email" class="block text-sm font-medium leading-5 text-gray-700">
@@ -72,6 +72,7 @@
             </div>
         </div>
         </div>
+    </div>
 </template>
 
 <script>
