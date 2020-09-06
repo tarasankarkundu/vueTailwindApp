@@ -1,13 +1,13 @@
 <template>
-  <SignIn></SignIn>
+  <router-view></router-view>
 </template>
 
 <script>
-import SignIn from './components/SignIn.vue';
+import AuthComponent from './components/auth/AuthComponent.vue';
 export default {
   name: 'App',
   components: {
-    SignIn
+    AuthComponent
   }
 }
 </script>
